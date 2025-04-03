@@ -43,9 +43,12 @@ sh
 
 
 ## 🏗 Future Improvements
-- Add a *database or file storage* for persistent data.
-- Implement a *GUI version* for better accessibility.
+- Add a *database or file storage* for persistent data using MONGODB database.
+- Implement a *GUI version or Wrbsite* for better accessibility.
 - Improve search functionality with *filters*.
+- Users can upload their lost-found items to the public.
+- Auction will be done to the items which remains in archive for more than 6 months.
+
 
 ---
 *Developed by:* [Atharv Kulakrni]
